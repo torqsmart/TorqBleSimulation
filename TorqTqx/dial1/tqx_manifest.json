@@ -1,8 +1,32 @@
 {
   "title": "dial1",
-  "owner": "天乌",
+  "owner": "admin",
   "watch": "TR01",
   "bkg": "image.png",
   "preview": "preview240.png",
-  "elements": []
+  "elements": [
+    {
+      "component": "clock",
+      "kind": "time",
+      "x": 0,
+      "y": 0,
+      "width": 240,
+      "height": 240,
+      "hour_image": "h.png",
+      "minute_image": "m.png",
+      "second_image": "s.png",
+      "hourpivotx": 11.0,
+      "hourpivoty": 114.0,
+      "hourpointx": 120.0,
+      "hourpointy": 120.0,
+      "minpivotx": 11.0,
+      "minpivoty": 114.0,
+      "minpointx": 120.0,
+      "minpointy": 120.0,
+      "secpivotx": 11.0,
+      "secpivoty": 114.0,
+      "secpointy": 120.0,
+      "secpointx": 120.0
+    }
+  ]
 }
